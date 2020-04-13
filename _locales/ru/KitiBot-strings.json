@@ -1,0 +1,18 @@
+{
+	"Dir.forward|block": "вперёд",
+	"Dir.backward|block": "назад",
+	"Dir.turnRight|block": "направо",
+	"Dir.turnLeft|block": "налево",
+	"Dir.stop|block": "стоп",
+	"KitiBot.Servo|block": "серво %degree",
+	"KitiBot.MotorRun|block": "Задать мотору |%index| скорость %speed",
+	"KitiBot.Run|block": "%index|со скоростью %speed",
+	"KitiBot.RunDelay|block": "%index|со скоростью %speed|в течение%time|с",
+	"KitiBot.Ultrasonic|block": "Сонар",
+	"KitiBot.SensorCalibrated|block": "SensorCalibrated",
+	"KitiBot.readLine|block": "ReadLine",
+	"KitiBot.AnalogRead|block": "AnalogRead",
+	"KitiBot.readCalibrated|block": "ReadCalibrated",
+	"KitiBot.ReadSensorMax|block": "ReadSensorMax",
+	"KitiBot.ReadSensorMin|block": "ReadSensorMin"
+}

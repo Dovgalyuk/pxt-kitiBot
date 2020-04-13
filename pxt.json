@@ -10,6 +10,7 @@
     "files": [
         "README.md",
         "KitiBot.ts",
+        "_locales/ru/KitiBot-strings.json",
         "_locales/zh/KitiBot-strings.json"
     ],
     "testFiles": [
