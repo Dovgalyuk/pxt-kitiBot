@@ -11,10 +11,9 @@
         "README.md",
         "KitiBot.ts",
         "_locales/ru/KitiBot-strings.json",
-        "_locales/zh/KitiBot-strings.json"
+        "_locales/ru/KitiBot-jsdoc-strings.json"
     ],
     "testFiles": [
-        "test.ts"
     ],
     "public": true
 }

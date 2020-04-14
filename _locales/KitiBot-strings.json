@@ -1,5 +1,5 @@
 {
-  "Dir.backward|block": "Вперёд",
+  "Dir.backward|block": "Backward",
   "Dir.forward|block": "Forward",
   "Dir.stop|block": "stop",
   "Dir.turnLeft|block": "TurnLeft",
