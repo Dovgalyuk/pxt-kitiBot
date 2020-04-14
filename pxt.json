@@ -1,6 +1,6 @@
 {
-    "name": "KitiBot",
-    "version": "0.0.0",
+    "name": "KitiBot (ru)",
+    "version": "0.0.1",
     "description": "Extension for waveshare KitiBot",
     "license": "MIT",
     "dependencies": {
