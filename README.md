@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-KitiBot=https://github.com/Dovgalyuk/pxt-kitiBot
+KitiBotRu=https://github.com/Dovgalyuk/pxt-kitiBot
 ```
