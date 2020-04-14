@@ -12,8 +12,7 @@ enum Motors {
 }
 
 enum Dir {
-    //% block="Forward"
-    //% block.loc.ru="Вперёд"
+    //% block="Forward1"
     forward = 0x1,
     //% block="Backward"
     backward = 0x2,

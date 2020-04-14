@@ -1,6 +1,6 @@
 {
   "Dir.backward|block": "Backward",
-  "Dir.forward|block": "Forward",
+  "Dir.forward|block": "Forward1",
   "Dir.stop|block": "stop",
   "Dir.turnLeft|block": "TurnLeft",
   "Dir.turnRight|block": "TurnRight",
