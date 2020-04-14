@@ -1,11 +1,11 @@
 {
-  "KitiBot": "自定义图形块",
-  "KitiBot.Run": "Execute single motors",
-  "KitiBot.RunDelay": "Execute single motors",
-  "KitiBot.RunDelay|param|speed": "[-255-255] speed of motor; eg: 150",
-  "KitiBot.RunDelay|param|time": "dalay second time; eg: 2",
-  "KitiBot.Run|param|speed": "[-255-255] speed of motor; eg: 150",
-  "KitiBot.Servo": "Servo Execute",
-  "KitiBot.Servo|param|degree": "[0-180] degree of servo; eg: 0, 90, 180",
-  "Motors": "使用此文件来定义自定义函数和图形块。\r\n想了解更详细的信息，请前往 https://makecode.microbit.org/blocks/custom"
+  "KitiBot": "KitiBot",
+  "KitiBot.Run": "Управление моторами",
+  "KitiBot.RunDelay": "Управление моторами",
+  "KitiBot.RunDelay|param|speed": "[-255-255] скорость мотора; например: 150",
+  "KitiBot.RunDelay|param|time": "задержка в секундах; например: 2",
+  "KitiBot.Run|param|speed": "[-255-255] скорость мотора; например: 150",
+  "KitiBot.Servo": "Управление серво-приводом",
+  "KitiBot.Servo|param|degree": "[0-180] угол поворота серво-привода; например: 0, 90, 180",
+  "Motors": "https://github.com/Dovgalyuk/pxt-kitiBot"
 }

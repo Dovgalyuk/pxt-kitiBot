@@ -8,12 +8,10 @@
         "APA102": "github:waveshare/pxt-apa102#v1.0.0"
     },
     "files": [
-        "README.md",
         "KitiBot.ts",
         "_locales/ru/KitiBot-strings.json",
         "_locales/ru/KitiBot-jsdoc-strings.json"
     ],
-    "testFiles": [
-    ],
+    "testFiles": [],
     "public": true
 }

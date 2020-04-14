@@ -12,7 +12,7 @@ enum Motors {
 }
 
 enum Dir {
-    //% block="Forward1"
+    //% block="Forward"
     forward = 0x1,
     //% block="Backward"
     backward = 0x2,
